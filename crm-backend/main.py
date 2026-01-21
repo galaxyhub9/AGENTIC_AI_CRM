@@ -135,7 +135,7 @@ def check_compliance(text: str):
 
 # --- Agent Setup ---
 # Using llama-3.3-70b-versatile model as required [cite: 16]
-llm = ChatGroq(model="llama-3.3-70b-versatile", groq_api_key="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") 
+llm = ChatGroq(model="llama-3.3-70b-versatile", groq_api_key="") 
 
 # List of tools the agent can use
 tools = [log_interaction, search_hcp, edit_interaction, check_compliance]
