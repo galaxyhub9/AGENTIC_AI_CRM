@@ -1,12 +1,11 @@
-# AI-First CRM: HCP Log Interaction Module (Round 1 Submission)
+# AI-First CRM: HCP Log Interaction Module
 
 ## 👋 About This Project
-For this assignment, I focused on solving a major pain point for field representatives: **data entry**. Instead of forcing users to fill out endless dropdowns, I designed a "Log Interaction Screen" that allows them to just type (or paste) their notes naturally.
+In this project I focused on solving a major pain point for field representatives: **data entry**. Instead of forcing users to fill out endless dropdowns, I designed a "Log Interaction Screen" that allows them to just type (or paste) their notes naturally.
 
 The core of this project is an **AI Agent (built with LangGraph)** that takes that natural language and automatically fills out the structured database fields.
 
 ## 🛠️ Tech Stack & Key Decisions
-Per the assignment requirements, I built this using:
 * **Frontend:** React + Redux (for managing the complex state of the form).
 * **Backend:** Python (FastAPI).
 * **AI Engine:** LangGraph for the agent workflow.
