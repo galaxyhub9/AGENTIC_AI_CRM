@@ -5,7 +5,14 @@ In this project I focused on solving a major pain point for field representative
 
 The core of this project is an **AI Agent (built with LangGraph)** that takes that natural language and automatically fills out the structured database fields.
 
-Demo: https://github.com/galaxyhub9/AGENTIC_AI_CRM/releases/tag/demo
+
+
+
+https://github.com/user-attachments/assets/8891133b-77d3-4da8-b7e7-a7b6a183ab06
+
+
+
+Full Demo Video: https://github.com/galaxyhub9/AGENTIC_AI_CRM/releases/tag/demo
 
 ## 🛠️ Tech Stack & Key Decisions
 * **Frontend:** React + Redux (for managing the complex state of the form).
